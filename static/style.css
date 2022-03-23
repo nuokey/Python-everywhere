@@ -68,6 +68,9 @@ body {  display: grid;
     border-bottom: 1px solid black;
 }
 
+.news a {
+    color: blue;
+}
 
 
 .gallery-row {
